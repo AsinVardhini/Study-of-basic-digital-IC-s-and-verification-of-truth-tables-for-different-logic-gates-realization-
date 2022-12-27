@@ -86,15 +86,15 @@ endmodule
 
 ## Logic symbol & Truthtable:
 
-![](l1.jpg)
+![](/l1.jpg)
 
 
 
-![](./TT.png)
+![](/TT.png)
 
 
 ## RTL realization:
-![](./output1.png)
+![](/output1.png)
 
 ## Result:
 Thus,the different digital IC’s are studied and the truth table for different logic gates are verified.
